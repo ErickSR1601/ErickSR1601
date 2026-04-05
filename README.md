@@ -8,13 +8,22 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm a passionate **Full Stack Developer** from Costa Rica.
+Full Stack Developer from Costa Rica building end-to-end web applications
+with React, Node.js, and MongoDB.
 
-I'm driven by curiosity and the desire to build **innovative and accessible applications**. I enjoy exploring the latest technologies and continuously improving my skills to create software that is both functional and visually engaging.
+Two projects in production covering REST API design, JWT authentication,
+role-based permissions, and cloud deployment on Vercel.
 
-💡 I'm currently focused on building efficient, user-friendly web applications and contributing to high-impact projects.  
-🌱 Always learning and growing professionally.  
-🎯 Eager to collaborate on meaningful software solutions.
+Currently looking for a Junior Developer role — remote or in Costa Rica.
+
+---
+
+## Projects
+
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| [Book Platform](https://github.com/ErickSR1601/book-platform) | Book collection manager with JWT auth and full CRUD | React · Node.js · MongoDB | [Demo](https://book-platform-mauve.vercel.app/) |
+| [Explorify](https://github.com/ErickSR1601/Explorify) | Travel wiki with roles, rich text editor and badge system | React · Node.js · MongoDB | [Demo](https://explorify-psi.vercel.app/) |
 
 ---
 
@@ -27,15 +36,16 @@ I'm driven by curiosity and the desire to build **innovative and accessible appl
 [![React](https://skillicons.dev/icons?i=react)](#) 
 
 ### 🔧 Back-End
-[![Java](https://skillicons.dev/icons?i=java)](#)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](#)
+[![Express](https://skillicons.dev/icons?i=express)](#)
+[![MongoDB](https://skillicons.dev/icons?i=mongo)](#)
 
 ### 🧰 Tools & Platforms
-[![VSCode](https://skillicons.dev/icons?i=vscode)](#)
 [![Git](https://skillicons.dev/icons?i=git)](#)
 [![GitHub](https://skillicons.dev/icons?i=github)](#)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](#)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](#)
 [![Postman](https://skillicons.dev/icons?i=postman)](#)
-[![Figma](https://skillicons.dev/icons?i=figma)](#)
 
 ---
 
